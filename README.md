@@ -101,18 +101,12 @@ __Business Constraint__: Minimize human intervention in the inventory management
 ![Pallet_SCM_Tableau_dashboard](https://github.com/MPraveenKumar97/Optimisation-in-Supply-Chain-Management/assets/71966737/cfafdb91-5112-4e49-8a55-798d8407d6c7)
 
 
-# 📈 Project Anticipated Benifits:
-● Reduced inventory volatility by 95% through improved forecasting and optimization
+# 📊 Project Outputs & Potential Applications
+● Performed data quality checks, duplicate removal, and exploratory analysis using Python and MySQL.
 
-● Achieved $1.2 million in cost savings through reduced inventory holding, improved production planning, and optimized logistics.
+● Developed dashboards in Power BI, Tableau, and Looker Studio to visualize pallet quantities, regional activity, transaction types, and order trends.
 
-● Identified key drivers of supply chain activity and seasonal fluctuations.
-
-● Increased customer satisfaction by consistently meeting demand and minimizing stockouts.
-
-● Improved operational efficiency
-
-● Streamlined operations through automation and data-driven decision making.
+● Created analytical outputs that could inform further investigation of inventory imbalances and support pallet inventory planning.
 
 # 🌐 My Linkedin
 https://www.linkedin.com/in/praveenkumarmodalavalasa/
