@@ -108,5 +108,7 @@ __Business Constraint__: Minimize human intervention in the inventory management
 
 ● Created analytical outputs that could inform further investigation of inventory imbalances and support pallet inventory planning.
 
+This project explores pallet transaction data using Python, MySQL, and BI dashboards to inform inventory planning.
+
 # 🌐 My Linkedin
 https://www.linkedin.com/in/praveenkumarmodalavalasa/
